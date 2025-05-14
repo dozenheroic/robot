@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 const repoName = 'build_a_robot'
 export default defineConfig({
-  base: `/robot/`,
+  base: `/${repoName}/`,
  
   plugins: [
     vue(),
