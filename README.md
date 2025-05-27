@@ -27,3 +27,31 @@ npm run dev
 ```sh
 npm run build
 ```
+### Technologies
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/ru/docs/Web/CSS)
+
+### Project structure
+
+```text
+robot/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── PartSelector.vue
+│   └── App.vue
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+### FULL installation and launch
+```sh
+git clone https://github.com/dozenheroic/robot.git
+cd robot
+npm install
+npm run dev
+```
