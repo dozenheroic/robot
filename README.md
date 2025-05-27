@@ -48,7 +48,7 @@ robot/
 ├── vite.config.js
 └── README.md
 ```
-### FULL installation and launch
+### FULL Setup
 ```sh
 git clone https://github.com/dozenheroic/robot.git
 cd robot
